@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![edits](https://user-images.githubusercontent.com/25933122/229163411-a60f9fbb-c4fa-44c7-ae2d-0846dec91c2a.gif)
+
+![evan_edits](https://user-images.githubusercontent.com/25933122/230286691-774b1ada-a2e1-4f7e-866d-6f667501f216.gif)
 
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=WiscEvan&theme=radical&show_icons=true&hide_border=true)
